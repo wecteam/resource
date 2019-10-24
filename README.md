@@ -12,7 +12,12 @@ WecTeam团队资源库，由团队成员共同收集！
 5. [阿里ESlint](https://www.npmjs.com/package/eslint-config-ali)
 6. [AlloyTeam配置指南](http://www.alloyteam.com/2017/08/13065/)
 7. [前端协作规范](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
+8. [Google CodeReview规范](https://juejin.im/post/5d80c27cf265da03e61b45c7)
 
 ## 性能
 1. [2019 前端性能优化年度总结](https://github.com/xitu/gold-miner/blob/master/TODO1/front-end-performance-checklist-2019-pdf-pages-1.md)
 2. [2019 年的 JavaScript 性能](https://juejin.im/post/5d1f27285188252f275fdbb6)
+
+
+## 后端
+1. [后端架构师图谱](https://github.com/xingshaocheng/architect-awesome)
