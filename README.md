@@ -3,6 +3,7 @@ WecTeam团队资源库，由团队成员共同收集！
 ## CSS
 1. [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12),[你未必知道的CSS知识点(第二季)](https://juejin.im/post/5d9ec8b0518825651b1dffa3)
 2. [CSS Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+3. [CSS selectors level 4](https://zhuanlan.zhihu.com/p/84766862)
 
 ## 规范
 1. [Node.js最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
@@ -17,6 +18,10 @@ WecTeam团队资源库，由团队成员共同收集！
 ## 性能
 1. [2019 前端性能优化年度总结](https://github.com/xitu/gold-miner/blob/master/TODO1/front-end-performance-checklist-2019-pdf-pages-1.md)
 2. [2019 年的 JavaScript 性能](https://juejin.im/post/5d1f27285188252f275fdbb6)
+3. [Performance Calendar](https://calendar.perfplanet.com/2018/)
+
+## 现代Web开发全书
+1. [现代Web开发全书](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 
 ## 后端
