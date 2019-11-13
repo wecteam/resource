@@ -61,7 +61,7 @@ WecTeam团队资源库，由团队成员共同收集！
 
 ## 感悟
 
-[玉伯-我的前端成长之路](https://www.yuque.com/yubo/morning/grow-up-at-alibaba)
+1. [玉伯-我的前端成长之路](https://www.yuque.com/yubo/morning/grow-up-at-alibaba)
 
 
 
