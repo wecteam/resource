@@ -1,3 +1,10 @@
+
+
+- 周刊（对外发布版）：<https://github.com/wecteam/weekly>
+
+- 周刊备份（含周刊、经典、资源、废弃）：<https://github.com/wecteam/resource/tree/master/weekly-backup>
+
+
 文章归类：
 
 - **周刊**：要求是前端文章，技术性和实时性（近3个月）比较强，有一定的深度和广度，最好契合业务。
