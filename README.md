@@ -7,7 +7,7 @@ WecTeam团队资源库，由团队成员共同收集！
 3. [你未必知道的CSS知识点(第二季)](https://juejin.im/post/5d9ec8b0518825651b1dffa3)
 4. [CSS Inspiration](https://github.com/chokcoco/CSS-Inspiration)
 5. [CSS selectors level 4](https://zhuanlan.zhihu.com/p/84766862)
-6.[每个前端工程师都应该了解的图片知识](https://segmentfault.com/a/1190000019231550)
+6. [每个前端工程师都应该了解的图片知识](https://segmentfault.com/a/1190000019231550)
 
 
 ## JavaScript
