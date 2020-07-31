@@ -40,8 +40,7 @@ CSS变量带来的提升绝不仅仅是节约点CSS代码，以及降低CSS开�
 Web Worker 作为浏览器多线程技术, 在页面内容不断丰富, 功能日趋复杂的当下, 成为缓解页面卡顿, 提升应用性能的可选方案。
 
 #### [精读《函数缓存》](https://mp.weixin.qq.com/s/bvep2BfQGGaqKkfd5f3LKg)
-函数缓存是重要概念，本质上就是用空间（缓存存储）换时间（跳过计算过程）。对于无副作用的纯函数，在合适的场景使用函数缓存是非常必要的，让我们跟着 whatthefork.is/memoization 这篇
-文章深入理解一下函数缓存吧！
+函数缓存是重要概念，本质上就是用空间（缓存存储）换时间（跳过计算过程）。对于无副作用的纯函数，在合适的场景使用函数缓存是非常必要的，让我们跟着 whatthefork.is/memoization 这篇文章深入理解一下函数缓存吧！
 
 #### [原生Javascript组件开发之Web Component实战](https://mp.weixin.qq.com/s/uahOBPyLCc9Hbq4tAYHRrw)
 随着 Web Component 日益成熟，各浏览器厂商也广泛支持，只需编写一遍，即可运行在任何框架之上，也给我们整合小程序组件带来不少思路。
@@ -49,7 +48,7 @@ Web Worker 作为浏览器多线程技术, 在页面内容不断丰富, 功能�
 #### [CDN技术原理](https://cloud.tencent.com/developer/article/1361468)
 CDN的全称是Content Delivery Network，即内容分发网络。其目的是通过在现有的Internet中增加一层新的网络架构，将网站的内容发布到最接近用户的网络”边缘”，使用户可以就近取得所需的内容，解决Internet网络拥塞状况，提高用户访问网站的响应速度。从技术上全面解决由于网络带宽小、用户访问量大、网点分布不均等原因，解决用户访问网站的响应速度慢的根本原因。
 
-#### [13.技术团队 TL 如何培养人才？钉钉前端团队负责人为你总结了这些经验](https://mp.weixin.qq.com/s/Xtw9s7Y6sTV6A3nBo_yE6w)
+#### [技术团队 TL 如何培养人才？钉钉前端团队负责人为你总结了这些经验](https://mp.weixin.qq.com/s/Xtw9s7Y6sTV6A3nBo_yE6w)
 关于团队TL的点点滴滴
 
 
