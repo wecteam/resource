@@ -46,6 +46,6 @@ Reporting API 可帮助捕获整个站点中潜在的错误，有利于定位解
 
 文章从屏幕绘制频率上开始入手分析了CRT和LCD两种显示器的成像原理，再深入剖析css动画原理然后再讲解了setTimeout为什么会出现丢帧的原因，最后引出requestAnimationFrame是替代setTimeout的优选方案。
 
-#### 3、[r现代前端性能指标一览](https://www.toutiao.com/i6883091457440219660/)
+#### 3、[现代前端性能指标一览](https://www.toutiao.com/i6883091457440219660/)
 
 Web Performance Metrics 与 Core Web Vitals 简介 —— 现代前端性能各个指标的具体含义和设计理念。
