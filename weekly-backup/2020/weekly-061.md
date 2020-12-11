@@ -38,7 +38,7 @@ ESR在淘宝双11的首次尝试和落地，对ESR在未来前端领域的优势
 
 本文通过介绍babel编译器工作原理，让大家对babel有一个基本了解，再之以现有的业务痛点为背景，利用babel识别代码中的注释，实现代码注入，打上断点，迅速排查问题；从中也可以得出，语法树玩法百花齐放，只要有思路，也可以实现一些解决现在业务痛点的插件。 
 
-#### 4、[ 一文摸透从输入URL到页面渲染的过程](https://www.cnblogs.com/AhuntSun-blog/p/12641050.html)
+#### 4、[一文摸透从输入URL到页面渲染的过程](https://www.cnblogs.com/AhuntSun-blog/p/12641050.html)
 
 帮你详细了解浏览器进程分工以及页面的的渲染顺序
 
@@ -46,14 +46,14 @@ ESR在淘宝双11的首次尝试和落地，对ESR在未来前端领域的优势
 
 人生苦短，一定要花1小时写个工具，解决10分钟能完成的事情 
 
-#### 6、[JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A )
+#### 6、[JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
 
 介绍了proxy和使用，以及使用的目的
 
 
 ## 资源文章
 
-#### 1、[你不知道的console](https://mp.weixin.qq.com/s/YJngKjAHvcjkg3o_o-5xWg )
+#### 1、[你不知道的console](https://mp.weixin.qq.com/s/YJngKjAHvcjkg3o_o-5xWg)
 
 我们在开发中经常用到console API中的log、error和warn，但这只是console API中的冰山一角。本文介绍了多种console的API，其中time、timeEnd、timeLog、trace和count也是非常实用的API，在特定的场景中使用它们能带来更好的收益。
 
